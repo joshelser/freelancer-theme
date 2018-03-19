@@ -467,3 +467,7 @@ footer .footer-below {
 .sponsor-row-box img {
   max-width: 275px;
 }
+
+div.first-row {
+  padding-bottom: 15px;
+}
