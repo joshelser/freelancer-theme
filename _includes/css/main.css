@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary }};
+    color: #{{ site.color.links }};
 }
 
 h1,
@@ -454,4 +454,18 @@ footer .footer-below {
 .modal.fade.in {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
+}
+
+.sponsor-row-box {
+  width: 90%;
+  height: 90%;
+  border: 5px solid black;
+  background-color: white;
+  padding: 15px;
+  color: black;
+  font-weight: bold;
+}
+
+.sponsor-row-box img {
+  max-width: 275px;
 }
