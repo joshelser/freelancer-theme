@@ -6,6 +6,8 @@ description: "PhoenixCon 2018"
 keywords: "phoenixcon apache phoenix"
 skills: "June 18th, 2018 - Joseph McEnery Convention Center, San Jose, CA"
 logo: phoenix.png
+# TODO
+cfp: "#"
 
 # Contact form:
 # - static : pass through formspree.io to validate email sending
