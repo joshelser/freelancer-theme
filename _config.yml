@@ -2,11 +2,11 @@
 title: "HBaseCon"
 email: dev@hbase.apache.org
 url: https://hbase.apache.org/hbasecon-2018/
-description: "HBaseCon 2018"
+description: "The Community Event for Apache HBase&trade;"
 keywords: "hbasecon apache hbase"
 #meta_author: Apache HBase
 skills: "June 18th, 2018 - Joseph McEnery Convention Center, San Jose, CA"
-logo: hbase.png
+logo: hbasecon2018.png
 pmc: HBase
 cfp: https://easychair.org/conferences/?conf=hbasecon2018
 
