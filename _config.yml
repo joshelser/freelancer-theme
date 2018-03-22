@@ -7,6 +7,7 @@ keywords: "hbasecon apache hbase"
 #meta_author: Apache HBase
 skills: "June 18th, 2018 - Joseph McEnery Convention Center, San Jose, CA"
 logo: hbase.png
+cfp: https://easychair.org/conferences/?conf=hbasecon2018
 
 # Contact form:
 # - static : pass through formspree.io to validate email sending
