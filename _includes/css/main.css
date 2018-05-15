@@ -459,12 +459,28 @@ footer .footer-below {
 .sponsor-row-box {
   width: 90%;
   height: 90%;
-  border: 5px solid black;
   padding: 15px;
+  border: 5px solid black;
   font-weight: bold;
   /* Need the following when sponsors is on a gray row */
   background-color: white;
   color: black;
+}
+
+.agenda-box {
+  border: 5px solid black;
+  padding: 15px;
+  background-color: white;
+  color: black;
+}
+
+.agenda-title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.agenda-speakers {
+  font-style: italic;
 }
 
 .sponsor-row-box img {
