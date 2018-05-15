@@ -490,3 +490,14 @@ footer .footer-below {
 div.first-row {
   padding-bottom: 15px;
 }
+
+div.speaker-text {
+  margin-bottom: 15px;
+}
+div.speaker-image-row div div img {
+  width: 125px;
+  height: 125px;
+  border-radius: 50%;
+  margin-bottom: 30px;
+  background: white;
+}
